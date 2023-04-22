@@ -5,7 +5,7 @@ Submitted by: **Joseph Boykin**
 
 **Bitfit-1** is a health metrics app that allows users to track to track a health aspect of their life and view and scroll through their past entries 
 
-Time spent: **4** hours spent in total
+Time spent: **5** hours spent in total
 
 ## Required Features
 
@@ -19,9 +19,9 @@ The following **required** functionality is completed:
  
 The following **optional** features are implemented:
 
-- [x] **Create a UI for tracking averages and trends in metrics**
-- [ ] **Improve and customize the user interface through styling and coloring**
-- [ ] **Implement orientation responsivity**
+- [] **Create a UI for tracking averages and trends in metrics**
+- [x] **Improve and customize the user interface through styling and coloring**
+- [x] **Implement orientation responsivity**
 - [ ] **Add a daily photo feature**
 
 The following **additional** features are implemented:
@@ -32,13 +32,15 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src=['[http://i.imgur.com/link/to/your/gif/file.gif](https://drive.google.com/drive/folders/170g2o2uurAqnqvXLA6R7dZWaI4cevDDB?usp=sharing)' ](https://drive.google.com/file/d/1WJqLiDQc5nwsSOVfgLHKTXEJMoKXAbaM/view?usp=sharing)title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [Kap](https://getkap.co/) for macOS
 
 ## Notes
-There were multiple challenges with syntax and file management.
+There were multiple challenges with syntax and file size compresson.
+The ZIP file is downloadable via google drive
+- https://drive.google.com/file/d/1WJqLiDQc5nwsSOVfgLHKTXEJMoKXAbaM/view?usp=sharing
 
 ## License
 
