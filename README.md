@@ -40,7 +40,7 @@ GIF created with [Kap](https://getkap.co/) for macOS
 ## Notes
 There were multiple challenges with syntax and file size compresson.
 The ZIP file is downloadable via google drive
-- https://drive.google.com/file/d/1WJqLiDQc5nwsSOVfgLHKTXEJMoKXAbaM/view?usp=sharing
+https://drive.google.com/file/d/1-EmvzA22PrQSFiwJpc6GDR1XZlwBrO6j/view?usp=sharing
 
 ## License
 
