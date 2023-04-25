@@ -32,7 +32,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/joeboykin/W6_bitffit-1/blob/855f7fb7c65a52f5ccf3bb0dc6d3513314eacac8/SleepTracker_Video.gif' ](https://drive.google.com/file/d/1WJqLiDQc5nwsSOVfgLHKTXEJMoKXAbaM/view?usp=sharing) title='Bitfit 1 Video Walkthrough' width='' alt='Bitfit 1 Video Walkthrough' />
+<img src='https://github.com/joeboykin/W6_bitffit-1/blob/855f7fb7c65a52f5ccf3bb0dc6d3513314eacac8/SleepTracker_Video.gif' title='Bitfit 1 Video Walkthrough' width='' alt='Bitfit 1 Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [Kap](https://getkap.co/) for macOS
